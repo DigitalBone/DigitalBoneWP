@@ -1,13 +1,13 @@
-# ignore workspace files
+# Ignore workspace files
 .idea/
 .tmb
 .htaccess
-.vscode
+.vscode/
 .DS_Store
 .Rhistory
 .quarantine
 
 # Ignore these in the root directory
-wp-config.php
-wp-config.php~
-wp-config-sample.php~
+/wp-config.php
+/wp-config.php~
+/wp-config-sample.php~
