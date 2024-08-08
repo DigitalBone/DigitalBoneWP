@@ -1,0 +1,40 @@
+[11-Jun-2023 18:26:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[24-Oct-2023 20:24:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[24-Oct-2023 21:38:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[01-Jan-2024 11:08:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[23-Jan-2024 21:47:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[23-Jan-2024 21:51:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[27-Jan-2024 13:10:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home6/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[26-Mar-2024 12:02:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[29-Apr-2024 23:03:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
+[02-May-2024 17:11:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hyenacoz/digitalbone.co.za/wp-includes/blocks/index.php on line 8
